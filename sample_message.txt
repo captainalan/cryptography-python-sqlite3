@@ -1,0 +1,5 @@
+This is a message to be encrypted.
+Here is a second message.
+Foo bar baz.
+FoO bar baz.
+Foot boot butt.
